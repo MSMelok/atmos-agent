@@ -6,6 +6,8 @@
     "NY": { "type": "BLOCK", "msg": "AUTO REJECT: New York" },
     "VT": { "type": "BLOCK", "msg": "AUTO REJECT: Vermont" },
     "PR": { "type": "BLOCK", "msg": "AUTO REJECT: Puerto Rico" },
+    "IN": { "type": "BLOCK", "msg": "AUTO REJECT: Indiana" },
+    
 
     "AK": { "type": "WARN", "msg": "Alaska: 10-15% Deals Only" },
     "AR": { "type": "WARN", "msg": "Arkansas: 10-15% Deals Only" },
@@ -29,7 +31,6 @@
     "RI": { "type": "WARN", "msg": "Rhode Island: 10-15% Deals Only" },
     "WI": { "type": "WARN", "msg": "Wisconsin: 10-15% Deals Only" },
 
-    "IN": { "type": "SAFE", "msg": "Indiana: Flat and % Deals (Flat Up to $150/mo - Both Tiers)" },
     "KS": { "type": "SAFE", "msg": "Kansas: Flat and % Deals (Flat Up to $150/mo - Both Tiers)" },
     "KY": { "type": "SAFE", "msg": "Kentucky: Flat and % Deals (Flat Up to $150/mo - Both Tiers)" },
     "MI": { "type": "SAFE", "msg": "Michigan: Flat and % Deals (Flat Up to $150/mo - Both Tiers)" },
