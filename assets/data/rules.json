@@ -60,9 +60,9 @@
     "ABILENE": { "type": "BLOCK", "msg": "AUTO REJECT: Abilene, TX" },
     "GARLAND": { "type": "BLOCK", "msg": "AUTO REJECT: Garland, TX" },
     "MIDLAND": { "type": "BLOCK", "msg": "AUTO REJECT: Midland, TX" },
-    "WICHITA FALLS": { "type": "BLOCK", "msg": "AUTO REJECT: Wichita Falls, TX" }
+    "WICHITA FALLS": { "type": "BLOCK", "msg": "AUTO REJECT: Wichita Falls, TX" },
     "SPOKANE": { "type": "BLOCK", "msg": "AUTO REJECT: Spokane, WA" },
     "STILLWATER": { "type": "BLOCK", "msg": "AUTO REJECT: Stillwater, MN" },
     "ST. PAUL": { "type": "BLOCK", "msg": "AUTO REJECT: St. Paul, MN" },
-    "APPLE VALLEY": { "type": "BLOCK", "msg": "AUTO REJECT: Apple Valley, MN" },    
+    "APPLE VALLEY": { "type": "BLOCK", "msg": "AUTO REJECT: Apple Valley, MN" }
 }
